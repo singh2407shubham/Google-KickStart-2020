@@ -1,6 +1,5 @@
 def lengthOflongestArray(array, array_len):
     
-    
     longest = 0
     stack = []
     
